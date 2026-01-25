@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0adbb9f1-bd7d-4c7b-9835-53ac2998beef" name="Changes" comment="">
+    <list default="true" id="0adbb9f1-bd7d-4c7b-9835-53ac2998beef" name="Changes" comment="Добавлена таска на покупку билета">
+      <change beforePath="$PROJECT_DIR$/.idea/Locust.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Locust.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/locust_template/test_data/user_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/locust_template/test_data/user_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locust_template/locustfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/locust_template/locustfile.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/locust_template/user_classes/wt_base_scenario.py" beforeDir="false" afterPath="$PROJECT_DIR$/locust_template/user_classes/wt_base_scenario.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/locust_template/utils/non_test_methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/locust_template/utils/non_test_methods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locust_template/user_classes/wt_cancel_scenario.py" beforeDir="false" afterPath="$PROJECT_DIR$/locust_template/user_classes/wt_cancel_scenario.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="24" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -23,18 +35,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Unnamed.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Locust" />
@@ -45,7 +58,6 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.14 (Locust)" />
       <option name="WORKING_DIRECTORY" value="C:\Users\Екатерина\Locust" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -78,12 +90,25 @@
       <option name="presentableId" value="Default" />
       <updated>1767980636459</updated>
       <workItem from="1767980637500" duration="9130000" />
-      <workItem from="1768739613341" duration="43520000" />
+      <workItem from="1768739613341" duration="46980000" />
     </task>
+    <task id="LOCAL-00001" summary="Добавлена таска на покупку билета">
+      <option name="closed" value="true" />
+      <created>1769197717556</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1769197717556</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Добавлена таска на покупку билета" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлена таска на покупку билета" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

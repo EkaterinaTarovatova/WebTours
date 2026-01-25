@@ -1,0 +1,2 @@
+Method,Name,Error,Occurrences
+POST,r01_01_login_pl,"CatchResponseError(""Assertion Error: text pattern 'Welcome to the Web Tours site.' was not found in response"")",8

@@ -1,0 +1,17 @@
+Count,Message,Traceback,Nodes
+25,argument of type 'NoneType' is not a container or iterable,"  File ""C:\Users\Екатерина\Locust\locust_template\.venv\Lib\site-packages\locust\user\task.py"", line 362, in run
+    self.execute_next_task()
+    ~~~~~~~~~~~~~~~~~~~~~~^^
+  File ""C:\Users\Екатерина\Locust\locust_template\.venv\Lib\site-packages\locust\user\task.py"", line 395, in execute_next_task
+    self.execute_task(self._task_queue.popleft())
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\Екатерина\Locust\locust_template\.venv\Lib\site-packages\locust\user\task.py"", line 407, in execute_task
+    task(self)
+    ~~~~^^^^^^
+  File ""C:\Users\Екатерина\Locust\locust_template\user_classes\wt_cancel_scenario.py"", line 126, in uc_06_itinerary
+    check_http_response(r06_01_welcome_pl_page_itinerary, ""Web Tours"")
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\Екатерина\Locust\locust_template\utils\assertion.py"", line 3, in check_http_response
+    assert param_to_check in response.text
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+",local
