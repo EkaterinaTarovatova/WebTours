@@ -1,5 +1,5 @@
 Count,Message,Traceback,Nodes
-25,argument of type 'NoneType' is not a container or iterable,"  File ""C:\Users\Екатерина\Locust\locust_template\.venv\Lib\site-packages\locust\user\task.py"", line 362, in run
+224,argument of type 'NoneType' is not a container or iterable,"  File ""C:\Users\Екатерина\Locust\locust_template\.venv\Lib\site-packages\locust\user\task.py"", line 362, in run
     self.execute_next_task()
     ~~~~~~~~~~~~~~~~~~~~~~^^
   File ""C:\Users\Екатерина\Locust\locust_template\.venv\Lib\site-packages\locust\user\task.py"", line 395, in execute_next_task
